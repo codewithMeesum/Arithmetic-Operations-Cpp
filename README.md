@@ -1,18 +1,25 @@
-# Arithmetic-Operations-Cpp
+<div align="center">
 
-This is a simple and beginner-friendly C++ program that performs basic arithmetic operations — **Addition**, **Subtraction**, **Multiplication**, and **Division** — on two user-input numbers.
+# 🔢 Arithmetic Operations in C++
 
-# Features
+A beginner-friendly C++ program that performs basic arithmetic operations:  
+**Addition**, **Subtraction**, **Multiplication**, and **Division** — with input validation.
 
-- User inputs two numbers
-- Performs:
- - Addition (`+`)
-- Subtraction (`-`)
- - Multiplication (`*`)
-- Division (`/`) with zero-check
-- Console output with results
+---
 
+## 🌐 Socials
 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/meesummukhtar) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mesummukhtar) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mesummukhtar47@gmail.com)
 
+---
+
+## 💻 Tech Stack
+
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+---
 
 
